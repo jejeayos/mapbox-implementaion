@@ -5,12 +5,12 @@ import ButtonGroup from 'react-bootstrap/ButtonGroup';
 
 const Banner = () => {
 
-    const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+    const [windowWidth, setWindowWidth] = useState('');
     const displayDirection = window.innerWidth < 786 ? 'btn-group-vertical' : '';
 
     useEffect(() => {
         const handleResize = () => {
-          setWindowWidth(window.innerWidth);
+          setWindowWidth('changed');
         };
     
         window.addEventListener('resize', handleResize);
@@ -18,7 +18,7 @@ const Banner = () => {
         return () => {
           window.removeEventListener('resize', handleResize);
         };
-      }, []);
+      }, [windowWidth]);
 
     return (
         <Container fluid className="banner-container">

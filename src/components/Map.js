@@ -10,6 +10,7 @@ import Row from 'react-bootstrap/Row';
 const Map = () => {
     const mapRef = useRef();
     const mapContainerRef = useRef();
+
     const popup = new mapboxgl.Popup({ 
         closeButton: false,
         closeOnClick: false,
@@ -43,7 +44,7 @@ const Map = () => {
         return () => {
             mapRef.current.remove()
         }
-    }, [windowWidth, []]);
+    });
 
     const redirectToCityPage = (evt) => {
         const features = mapRef.current.queryRenderedFeatures(evt.point, {
