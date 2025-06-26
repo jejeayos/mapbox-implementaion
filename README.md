@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Live site
+
+This project is deployed here: [MapboxGLProject using Netlify] (https://mapboxglproject.netlify.app/)
+                               [MapboxGLProject using Vercel] (https://mapbox-implementaion.vercel.app/)
