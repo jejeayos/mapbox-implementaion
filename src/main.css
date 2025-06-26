@@ -128,6 +128,10 @@
 
     .contact-info {
         margin-right: 150px;
+        
+        .text {
+            text-align: left;
+        }
 
         .contact-address, .contact-num-email, .contact-stack{
             align-items: flex-start;
@@ -135,10 +139,6 @@
 
         .contact-address {
             padding-top: 30px;
-
-            .address {
-                text-align: left;
-            }
         }
     }
 
