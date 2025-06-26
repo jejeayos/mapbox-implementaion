@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.750759,
+            37.570278
+          ]
+        },
+        "properties": {
+          "name": "Johnson",
+          "address": "Johnson",
+          "place_formatted": "Kansas, United States",
+          "longitude": -101.750759,
+          "latitude": 37.570278,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Johnson",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpHa0xJN0E",
+          "batch_index": 0,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q2232350",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.626816,
+            39.113629
+          ]
+        },
+        "properties": {
+          "name": "Kansas City",
+          "address": "Kansas City",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.626816,
+          "latitude": 39.113629,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Kansas City",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpDZlhJN0E",
+          "batch_index": 1,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q486472",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.630369,
+            39.022378
+          ]
+        },
+        "properties": {
+          "name": "Fairway",
+          "address": "Fairway",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.630369,
+          "latitude": 39.022378,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Fairway",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpCbW5JN0E",
+          "batch_index": 2,
+          "match_confidence": "unknown",
+          "wikidata_place": "",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.617439,
+            38.967808
+          ]
+        },
+        "properties": {
+          "name": "Leawood",
+          "address": "Leawood",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.617439,
+          "latitude": 38.967808,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Leawood",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpDdUtvN0E",
+          "batch_index": 3,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q1947796",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.686516,
+            39.022299
+          ]
+        },
+        "properties": {
+          "name": "Merriam",
+          "address": "Merriam",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.686516,
+          "latitude": 39.022299,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Merriam",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpESUdJN0E",
+          "batch_index": 4,
+          "match_confidence": "unknown",
+          "wikidata_place": "",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.655563,
+            39.027683
+          ]
+        },
+        "properties": {
+          "name": "Mission",
+          "address": "Mission",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.655563,
+          "latitude": 39.027683,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Mission",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpETndJN0E",
+          "batch_index": 5,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q2751231",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.607743,
+            39.015166
+          ]
+        },
+        "properties": {
+          "name": "Mission Hills",
+          "address": "Mission Hills",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.607743,
+          "latitude": 39.015166,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Mission Hills",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpETnlvN0E",
+          "batch_index": 6,
+          "match_confidence": "unknown",
+          "wikidata_place": "",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.820663,
+            38.883516
+          ]
+        },
+        "properties": {
+          "name": "Olathe",
+          "address": "Olathe",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.820663,
+          "latitude": 38.883516,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Olathe",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpHMjNvN0E",
+          "batch_index": 7,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q593022",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.686255,
+            38.973146
+          ]
+        },
+        "properties": {
+          "name": "Overland Park",
+          "address": "Overland Park",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.686255,
+          "latitude": 38.973146,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Overland Park",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpEc21vN0E",
+          "batch_index": 8,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q500481",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.578631,
+            39.098485
+          ]
+        },
+        "properties": {
+          "name": "Kansas City",
+          "address": "Kansas City",
+          "place_formatted": "Missouri, United States",
+          "longitude": -94.578631,
+          "latitude": 39.098485,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Kansas City",
+          "region": "Missouri",
+          "region_code": "MO",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpHazFJN0E",
+          "batch_index": 9,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q41819",
+          "wikidata_region": "Q1581",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.630408,
+            38.993261
+          ]
+        },
+        "properties": {
+          "name": "Prairie Village",
+          "address": "Prairie Village",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.630408,
+          "latitude": 38.993261,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Prairie Village",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpEL0JJN0E",
+          "batch_index": 10,
+          "match_confidence": "unknown",
+          "wikidata_place": "",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.63971,
+            39.035569
+          ]
+        },
+        "properties": {
+          "name": "Roeland Park",
+          "address": "Roeland Park",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.63971,
+          "latitude": 39.035569,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Roeland Park",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpFTlJvN0E",
+          "batch_index": 11,
+          "match_confidence": "unknown",
+          "wikidata_place": "",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.714581,
+            39.022937
+          ]
+        },
+        "properties": {
+          "name": "Shawnee",
+          "address": "Shawnee",
+          "place_formatted": "Kansas, United States",
+          "longitude": -94.714581,
+          "latitude": 39.022937,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Shawnee",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpFZDlvN0E",
+          "batch_index": 12,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q7491542",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.376232,
+            38.912567
+          ]
+        },
+        "properties": {
+          "name": "Lees Summit",
+          "address": "Lees Summit",
+          "place_formatted": "Missouri, United States",
+          "longitude": -94.376232,
+          "latitude": 38.912567,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Lees Summit",
+          "region": "Missouri",
+          "region_code": "MO",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpDdThvN0E",
+          "batch_index": 13,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q959502",
+          "wikidata_region": "Q1581",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.276771,
+            39.018346
+          ]
+        },
+        "properties": {
+          "name": "Blue Springs",
+          "address": "Blue Springs",
+          "place_formatted": "Missouri, United States",
+          "longitude": -94.276771,
+          "latitude": 39.018346,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Blue Springs",
+          "region": "Missouri",
+          "region_code": "MO",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpBZVJJN0E",
+          "batch_index": 14,
+          "match_confidence": "unknown",
+          "wikidata_place": "Q379010",
+          "wikidata_region": "Q1581",
+          "wikidata_country": "Q30"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.798324,
+            39.120509
+          ]
+        },
+        "properties": {
+          "name": "Waldo",
+          "address": "Waldo",
+          "place_formatted": "Kansas, United States",
+          "longitude": -98.798324,
+          "latitude": 39.120509,
+          "accuracy": "unknown",
+          "address_number": "",
+          "street_name": "",
+          "neighborhood": "",
+          "postcode": "",
+          "locality": "",
+          "place": "Waldo",
+          "region": "Kansas",
+          "region_code": "KS",
+          "country": "United States",
+          "country_code": "US",
+          "feature_type": "place",
+          "mapbox_id": "dXJuOm1ieHBsYzpIUHRJN0E",
+          "batch_index": 15,
+          "match_confidence": "unknown",
+          "wikidata_place": "",
+          "wikidata_region": "Q1558",
+          "wikidata_country": "Q30"
+        }
+      }
+    ]
+  }
